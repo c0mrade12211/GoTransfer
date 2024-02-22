@@ -29,10 +29,9 @@ If any of the required parameters are missing, the application will display the 
 - Go programming language
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/c0mrade12211)
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
 
-Пожалуйста, не забудьте заменить  `[Your Name](https://github.com/yourusername)`  на ваше имя и ссылку на профиль GitHub. Вы также можете добавить дополнительную информацию о проекте, инструкции по установке и запуску, примеры использования и другую полезную информацию.
