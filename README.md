@@ -29,7 +29,7 @@ If any of the required parameters are missing, the application will display the 
 - Go programming language
 
 ## Contributors
-- [Your Name](https://github.com/c0mrade12211)
+- [Profile](https://github.com/c0mrade12211)
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
