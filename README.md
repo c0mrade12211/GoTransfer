@@ -3,7 +3,7 @@
 
 # File Transfer Application
 
-This is a simple file transfer application written in Go that allows you to transfer files between a client and a server using TCP protocol.
+This is a simple file transfer application written in Go that allows you to transfer files between a client and a server using TCP,HTTP protocol.
 
 ## Usage
 
