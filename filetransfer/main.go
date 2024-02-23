@@ -26,6 +26,9 @@ func main() {
 	}
 	if FileTransferData.ClientOrServer == "client" && FileTransferData.Protocol == "tcp" && FileTransferData.PathToUploadFile != "" && FileTransferData.ServerIP != "" && FileTransferData.Port != 0 {
 		client.TCPclient_upload(FileTransferData.ServerIP, FileTransferData.Port, FileTransferData.PathToUploadFile)
+	}
+	if FileTransferData.ClientOrServer == "server" && FileTransferData.Protocol == "http" {
+		servers.HTTPserver(FileTransferData.Port)
 	} else {
 		flag.PrintDefaults()
 	}
